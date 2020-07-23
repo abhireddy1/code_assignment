@@ -1,0 +1,92 @@
+[
+  {
+    "customerId": "1",
+    "transactionDate": "2020-06-23T11:00:00Z",
+    "transactionAmount": 120
+  },
+  {
+    "customerId": "1",
+    "transactionDate": "2020-06-23T11:00:00Z",
+    "transactionAmount": 50
+  },
+  {
+    "customerId": "1",
+    "transactionDate": "2020-05-23T11:00:00Z",
+    "transactionAmount": 30
+  },
+  {
+    "customerId": "1",
+    "transactionDate": "2020-05-01T11:00:00Z",
+    "transactionAmount": 155
+  },
+  {
+    "customerId": "1",
+    "transactionDate": "2020-04-23T11:00:00Z",
+    "transactionAmount": 55
+  },
+  {
+    "customerId": "1",
+    "transactionDate": "2020-04-14T11:00:00Z",
+    "transactionAmount": 5
+  },
+  {
+    "customerId": "2",
+    "transactionDate": "2020-06-23T11:00:00Z",
+    "transactionAmount": 200
+  },
+  {
+    "customerId": "2",
+    "transactionDate": "2020-06-23T11:00:00Z",
+    "transactionAmount": 50
+  },
+  {
+    "customerId": "2",
+    "transactionDate": "2020-05-23T11:00:00Z",
+    "transactionAmount": 30
+  },
+  {
+    "customerId": "2",
+    "transactionDate": "2020-05-01T11:00:00Z",
+    "transactionAmount": 155
+  },
+  {
+    "customerId": "2",
+    "transactionDate": "2020-04-23T11:00:00Z",
+    "transactionAmount": 55
+  },
+  {
+    "customerId": "2",
+    "transactionDate": "2020-04-14T11:00:00Z",
+    "transactionAmount": 5
+  },
+  {
+    "customerId": "3",
+    "transactionDate": "2020-06-23T11:00:00Z",
+    "transactionAmount": 200
+  },
+  {
+    "customerId": "3",
+    "transactionDate": "2020-06-23T11:00:00Z",
+    "transactionAmount": 50
+  },
+  {
+    "customerId": "3",
+    "transactionDate": "2020-05-23T11:00:00Z",
+    "transactionAmount": 30
+  },
+  {
+    "customerId": "3",
+    "transactionDate": "2020-05-01T11:00:00Z",
+    "transactionAmount": 155
+  },
+  {
+    "customerId": "3",
+    "transactionDate": "2020-04-23T11:00:00Z",
+    "transactionAmount": 55
+  },
+  {
+    "customerId": "3",
+    "transactionDate": "2020-04-14T11:00:00Z",
+    "transactionAmount": 5
+  }
+]
